@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 12
+names: ['cattle', 'chicken', 'deer', 'fox', 'goat', 'goose', 'horse', 'mouse', 'pig', 'rabbit', 'sheep', 'turkey']
+
+roboflow:
+  workspace: asz
+  project: farmanimaldetectornew
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/asz/farmanimaldetectornew/dataset/1
