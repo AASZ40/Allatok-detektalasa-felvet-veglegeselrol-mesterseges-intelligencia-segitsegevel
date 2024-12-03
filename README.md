@@ -1,0 +1,1 @@
+# Allatok-detektalasa-felvet-veglegeselrol-mesterseges-intelligencia-segitsegevel
