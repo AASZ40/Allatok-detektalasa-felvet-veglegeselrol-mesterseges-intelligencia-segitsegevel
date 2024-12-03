@@ -1,0 +1,4 @@
+YOLO modellek letoltesi url-jei: yolov8n -> https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8n.pt
+                                 yolov9c -> https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov9c.pt
+                                 yolov10n -> https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov10n.pt
+                                 yolo11n -> https://github.com/ultralytics/assets/releases/download/v8.3.0/yolo11n.pt
